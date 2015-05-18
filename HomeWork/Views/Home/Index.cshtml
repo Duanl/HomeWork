@@ -1,4 +1,34 @@
 ﻿@{
-    ViewBag.Title = "餐饮管理系统";
+    Layout = null;
 }
+<html>
+<head>
+    <title>餐饮管理系统</title>
+    @Styles.Render("~/bundles/css")
+</head>
+<body>
+    <div id="subWrap" class="easyui-layout" fit="true">
+        <div region="north" style="height:60px;">
+            <h1 style="padding-left: 20px; ">餐饮管理系统</h1>
+        </div>
+        <div region="west" split="true" style="width:220px" title="导航菜单">@Html.Partial("MenuTree")</div>
+        <div region="center" title="功能区域">页面主体内容区</div>
+        <div region="south">页面底部 </div>
+    </div>
+</body>
+</html>
+@Scripts.Render("~/bundles/jquery")
 
+<script type="text/javascript">
+
+    function ShowContent(title, url) {
+        $('#subWrap').layout('remove', 'center');
+        $('#subWrap').layout('add', {
+            region: 'center',
+            width: 'auto',
+            title: title,
+            href: url
+        });
+    }
+
+</script>

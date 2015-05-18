@@ -10,11 +10,12 @@ namespace HomeWork.UI
             bundles.UseCdn = true;
 
             var cssBundle = new StyleBundle("~/bundles/css");
-            cssBundle.Include("~/Content/Site.css");
+            cssBundle.Include("~/Content/themes/bootstrap/easyui.css",
+                "~/Content/themes/icon.css");
             bundles.Add(cssBundle);
 
             var jqueryBundle = new ScriptBundle("~/bundles/jquery");
-            jqueryBundle.Include("~/Scripts/jquery-{version}.js");
+            jqueryBundle.Include("~/Scripts/jquery-{version}.js", "~/Scripts/jquery.easyui-{version}.js");
             bundles.Add(jqueryBundle);
 
             var jqueryvalBundle = new ScriptBundle("~/bundles/jqueryval");
