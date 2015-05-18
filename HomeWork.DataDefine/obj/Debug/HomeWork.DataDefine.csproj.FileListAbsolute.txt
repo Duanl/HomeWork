@@ -1,0 +1,4 @@
+F:\VSWorkSpace\HomeWork\HomeWork.DataDefine\bin\Debug\HomeWork.DataDefine.dll
+F:\VSWorkSpace\HomeWork\HomeWork.DataDefine\bin\Debug\HomeWork.DataDefine.pdb
+F:\VSWorkSpace\HomeWork\HomeWork.DataDefine\obj\Debug\HomeWork.DataDefine.dll
+F:\VSWorkSpace\HomeWork\HomeWork.DataDefine\obj\Debug\HomeWork.DataDefine.pdb

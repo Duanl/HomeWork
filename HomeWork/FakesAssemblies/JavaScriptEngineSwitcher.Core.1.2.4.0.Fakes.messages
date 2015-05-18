@@ -1,0 +1,19 @@
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Configuration.CoreConfiguration 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Configuration.JsEngineRegistration 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Configuration.JsEngineRegistrationList 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.EmptyValueException 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Helpers.JsRuntimeErrorHelpers 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Helpers.ValidationHelpers 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.JsEngineLoadException 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.JsEngineNotFoundException 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.JsEngineSwitcher 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.JsRuntimeException 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.NotSupportedTypeException 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Resources.Strings 生成存根: 类型是编译器生成的。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Undefined 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Utilities.StringBuilderExtensions 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Utilities.TypeConverter 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Utilities.Utils 生成存根: 类型已密封。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.IJsEngine 生成填充码: 类型是一个接口。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Resources.Strings 生成填充码: 类型是编译器生成的。
+F:\VSWorkSpace\HomeWork\HomeWork\Fakes\JavaScriptEngineSwitcher.Core.fakes : warning : 无法为 JavaScriptEngineSwitcher.Core.Utilities.StringBuilderExtensions 生成填充码: 类型对 exported or assembly(JavaScriptEngineSwitcher.Core.1.2.4.0.Fakes) 不可见。
