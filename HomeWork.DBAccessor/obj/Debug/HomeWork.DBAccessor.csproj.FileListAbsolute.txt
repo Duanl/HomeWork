@@ -5,3 +5,8 @@ F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\bin\Debug\HomeWork.DataDefine.pdb
 F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\obj\Debug\HomeWork.DBAccessor.csprojResolveAssemblyReference.cache
 F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\obj\Debug\HomeWork.DBAccessor.dll
 F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\obj\Debug\HomeWork.DBAccessor.pdb
+F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\bin\Debug\EntityFramework.dll
+F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\bin\Debug\EntityFramework.SqlServer.dll
+F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\bin\Debug\EntityFramework.xml
+F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\bin\Debug\EntityFramework.SqlServer.xml
+F:\VSWorkSpace\HomeWork\HomeWork.DBAccessor\bin\Debug\zh-Hans\EntityFramework.resources.dll

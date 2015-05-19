@@ -1,3 +1,13 @@
 packages/*
-bin/*
-obj/*
+HomeWorkWeb/bin/
+HomeWorkWeb/obj/
+HomeWork.DBAccessor/bin/
+HomeWork/bin/
+HomeWork/obj/
+*.cache
+*.cs
+MvcApplication1/packages.config
+MvcApplication1/bin/zh-Hans/System.Net.Http.Formatting.resources.dll
+MvcApplication1/bin/
+MvcApplication1/obj/Debug/HomeWork.csproj.FileListAbsolute.txt
+MvcApplication1/obj/Debug/
